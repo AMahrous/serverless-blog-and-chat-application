@@ -1,0 +1,4 @@
+{
+    "ServiceEndpoint": "https://k42zazai5d.execute-api.us-east-1.amazonaws.com/dev",
+    "ServiceEndpointWebsocket": "wss://12l0a0sh5d.execute-api.us-east-1.amazonaws.com/dev"
+}

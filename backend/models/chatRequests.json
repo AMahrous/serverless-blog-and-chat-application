@@ -1,0 +1,11 @@
+{
+"setName":
+{"action": "setName", "name": "mahrous"}
+,
+
+"sendPublic":
+{"action": "sendPublic", "message": "Hello World!"}
+,
+"sendPrivate":
+{"action": "sendPrivate", "message": "Hello World!", "to":"mahrous"}
+}
